@@ -1,0 +1,8 @@
+<mvc:View controllerName="gitapp.project1.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content />
+        <Button id="_IDGenButton1" text="Github 1st Button" press="clickBtn"></Button>
+    </Page>
+</mvc:View>
