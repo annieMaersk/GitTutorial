@@ -13,6 +13,9 @@ sap.ui.define([
             },
             clickBtn: function(){
                 sap.m.MessageBox.confirm("Github application 1st changes");
+            },
+            clickBtn2: function(){
+                sap.m.MessageBox.confirm("Github application 2nd changes");
             }
         });
     });
